@@ -21,19 +21,19 @@
 
 原定顺序总体合理：它从 Turing 的短论文进入，以文学打断纯技术视角，再经 Simon、Mill、Kuhn、Aristotle、Arendt 到 Marx，认知负荷是逐步增加的。只作三处小调整：把两篇 Borges 插在《地下室手记》之后；把 Wiener 放在 Simon 之后作为“控制—沟通—人的用途”的桥；把数学教材作为并行轨道，而不是等人文主线结束再开始。
 
-| 顺序 | 阅读单元 | 第一次的最低完成标准 | 建议节奏 |
-|---:|---|---|---|
-| 1 | Turing, “Computing Machinery and Intelligence” | 全文；能列出模仿游戏、九类反对意见中的三类 | 2–3 次，每次 30–45 分钟 |
-| 2 | *Notes from Underground* | 先第一部，再第二部；写下叙述者自我矛盾的两处 | 1–2 周 |
-| 3 | Borges 两篇 | 各读两遍；第二遍只追踪“记忆/分类/无限” | 3–4 天 |
-| 4 | Simon, *The Sciences of the Artificial* | 先第 1 章与 “The Science of Design”；版本章次不同，以标题为准 | 2 周 |
-| 5 | Wiener, *The Human Use of Human Beings* | 序言、关于熵/进步/语言与法律的选章 | 1–2 周 |
-| 6 | Mill, *On Liberty* | 第 1–3 章精读；第 4–5 章选读 | 2 周 |
-| 7 | Kuhn, *The Structure of Scientific Revolutions* | 序言；第 II–III、IX–X、XIII 章 | 2–3 周 |
-| 8 | Aristotle, *Nicomachean Ethics* | Book I、II、VI、X；其余先查问题再选读 | 4–6 周 |
-| 9 | Arendt, *The Human Condition* | Prologue、I，以及 labor/work/action 三部分的开头和总结 | 4–6 周 |
-| 10 | Marx, *Capital I* | 商品、工作日、机器与大工业、原始积累；不要首次通读 | 2–4 个月 |
-| 11 | Marx, *Grundrisse* | 先 “Fragment on Machines” 所在段，再回读导言和资本章 | 3–5 周 |
+| 顺序 | 阅读单元                                         | 第一次的最低完成标准                                            | 建议节奏                  |
+| ---: | ------------------------------------------------ | --------------------------------------------------------------- | ------------------------- |
+|    1 | Turing, “Computing Machinery and Intelligence” | 全文；能列出模仿游戏、九类反对意见中的三类                      | 2–3 次，每次 30–45 分钟 |
+|    2 | *Notes from Underground*                       | 先第一部，再第二部；写下叙述者自我矛盾的两处                    | 1–2 周                   |
+|    3 | Borges 两篇                                      | 各读两遍；第二遍只追踪“记忆/分类/无限”                        | 3–4 天                   |
+|    4 | Simon,*The Sciences of the Artificial*         | 先第 1 章与 “The Science of Design”；版本章次不同，以标题为准 | 2 周                      |
+|    5 | Wiener,*The Human Use of Human Beings*         | 序言、关于熵/进步/语言与法律的选章                              | 1–2 周                   |
+|    6 | Mill,*On Liberty*                              | 第 1–3 章精读；第 4–5 章选读                                  | 2 周                      |
+|    7 | Kuhn,*The Structure of Scientific Revolutions* | 序言；第 II–III、IX–X、XIII 章                                | 2–3 周                   |
+|    8 | Aristotle,*Nicomachean Ethics*                 | Book I、II、VI、X；其余先查问题再选读                           | 4–6 周                   |
+|    9 | Arendt,*The Human Condition*                   | Prologue、I，以及 labor/work/action 三部分的开头和总结          | 4–6 周                   |
+|   10 | Marx,*Capital I*                               | 商品、工作日、机器与大工业、原始积累；不要首次通读              | 2–4 个月                 |
+|   11 | Marx,*Grundrisse*                              | 先 “Fragment on Machines” 所在段，再回读导言和资本章          | 3–5 周                   |
 
 如果某周注意力很差，不换成摘要；把任务缩成“读 4 页 + 写 1 个问题”。持续接触原文比完成虚假的进度更重要。
 
@@ -192,31 +192,31 @@
 
 ### 快速总表
 
-| # | 文本 | 免费完整原文 | 合法借阅/购买 | 建议方式 | 难度 |
-|---:|---|---|---|---|---:|
-| 1 | Turing, “Computing Machinery and Intelligence” | 未找到明确开放许可的官方完整版 | OUP DOI / JSTOR | 精读 | 3 |
-| 2 | *Notes from Underground* | Gutenberg；本地 EPUB | 多种现代译本 | 精读 | 2 |
-| 3 | Borges 两篇 | 未找到 | PRH / IA 受控借阅 | 精读 | 2 |
-| 4 | *The Sciences of the Artificial* | 未找到 | MIT Press / IA 受控借阅 | 先选读 | 3 |
-| 5 | *The Human Use of Human Beings* | 未找到 | IA 受控借阅 | 先选读 | 3 |
-| 6 | *On Liberty* | Gutenberg；本地 EPUB | 多种现代译本 | 关键章精读 | 2 |
-| 7 | *The Structure of Scientific Revolutions* | 未找到 | Chicago / IA 受控借阅 | 关键章精读 | 4 |
-| 8 | *Nicomachean Ethics* | Perseus / Gutenberg；本地 EPUB | 现代译注本 | 先导论 | 4 |
-| 9 | *The Human Condition* | 未找到 | Chicago / IA 受控借阅 | 先导论 | 5 |
-| 10 | *Capital, Vol. I* | 1887 公版英译；本地 PDF | 人民出版社中译 | 专题选读→长期精读 | 5 |
-| 11 | *Grundrisse* | 未找到明确许可的完整现代英译 | Penguin / IA 受控借阅 | 先片段与导论 | 5 |
-| 12 | *Convex Optimization* | 作者公开 PDF；本地 PDF | CUP / 清华中译 | 精读做题 | 4 |
-| 13 | *Elements of Information Theory* | 未找到 | Wiley / IA 受控借阅 | 精读做题 | 4 |
+|  # | 文本                                             | 免费完整原文                   | 合法借阅/购买           | 建议方式           | 难度 |
+| -: | ------------------------------------------------ | ------------------------------ | ----------------------- | ------------------ | ---: |
+|  1 | Turing, “Computing Machinery and Intelligence” | 未找到明确开放许可的官方完整版 | OUP DOI / JSTOR         | 精读               |    3 |
+|  2 | *Notes from Underground*                       | Gutenberg；本地 EPUB           | 多种现代译本            | 精读               |    2 |
+|  3 | Borges 两篇                                      | 未找到                         | PRH / IA 受控借阅       | 精读               |    2 |
+|  4 | *The Sciences of the Artificial*               | 未找到                         | MIT Press / IA 受控借阅 | 先选读             |    3 |
+|  5 | *The Human Use of Human Beings*                | 未找到                         | IA 受控借阅             | 先选读             |    3 |
+|  6 | *On Liberty*                                   | Gutenberg；本地 EPUB           | 多种现代译本            | 关键章精读         |    2 |
+|  7 | *The Structure of Scientific Revolutions*      | 未找到                         | Chicago / IA 受控借阅   | 关键章精读         |    4 |
+|  8 | *Nicomachean Ethics*                           | Perseus / Gutenberg；本地 EPUB | 现代译注本              | 先导论             |    4 |
+|  9 | *The Human Condition*                          | 未找到                         | Chicago / IA 受控借阅   | 先导论             |    5 |
+| 10 | *Capital, Vol. I*                              | 1887 公版英译；本地 PDF        | 人民出版社中译          | 专题选读→长期精读 |    5 |
+| 11 | *Grundrisse*                                   | 未找到明确许可的完整现代英译   | Penguin / IA 受控借阅   | 先片段与导论       |    5 |
+| 12 | *Convex Optimization*                          | 作者公开 PDF；本地 PDF         | CUP / 清华中译          | 精读做题           |    4 |
+| 13 | *Elements of Information Theory*               | 未找到                         | Wiley / IA 受控借阅     | 精读做题           |    4 |
 
 ### 本地合法公开文件
 
-| 本地文件 | 来源与许可判断 | SHA-256 |
-|---|---|---|
-| `aristotle_nicomachean_ethics_gutenberg_8438.epub` | Project Gutenberg 公版英译 | `ABAAD0F5550E0DDBD03C5DA268DB78544C01A47D75EBC49F6EB87517E63E7748` |
-| `mill_on_liberty_gutenberg_34901.epub` | Project Gutenberg 公版 | `743308C0CFFBFF91EADDFD29B70A0CAD5F615F54759808CCA21129582748DD10` |
+| 本地文件                                                 | 来源与许可判断                      | SHA-256                                                              |
+| -------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------- |
+| `aristotle_nicomachean_ethics_gutenberg_8438.epub`     | Project Gutenberg 公版英译          | `ABAAD0F5550E0DDBD03C5DA268DB78544C01A47D75EBC49F6EB87517E63E7748` |
+| `mill_on_liberty_gutenberg_34901.epub`                 | Project Gutenberg 公版              | `743308C0CFFBFF91EADDFD29B70A0CAD5F615F54759808CCA21129582748DD10` |
 | `dostoevsky_notes_from_underground_gutenberg_600.epub` | Project Gutenberg 公版 Garnett 英译 | `2F96EE7E1AA2A7DD3DD9815F5D517150777013C0B643D0E7857F69DAE3468AC8` |
-| `marx_capital_volume_i_1887_english.pdf` | 1887 公版英译，MIA 托管 | `279C2D870A1B76C8944748B77052E3E492DEF7CA17F8AAD60385B211B5BDC6D5` |
-| `boyd_vandenberghe_convex_optimization.pdf` | 作者在 Stanford 课程书页明确公开 | `40D976C83C18CCE1900EFF8C41BD5AD408C102B813AF39D05FF85678CCF8D76E` |
+| `marx_capital_volume_i_1887_english.pdf`               | 1887 公版英译，MIA 托管             | `279C2D870A1B76C8944748B77052E3E492DEF7CA17F8AAD60385B211B5BDC6D5` |
+| `boyd_vandenberghe_convex_optimization.pdf`            | 作者在 Stanford 课程书页明确公开    | `40D976C83C18CCE1900EFF8C41BD5AD408C102B813AF39D05FF85678CCF8D76E` |
 
 没有因为“网上能搜到”就保存 Turing、Simon、Kuhn 或 Wiener 的扫描件；以后确认许可的文件也直接保存在当前文件夹。
 
@@ -233,11 +233,29 @@
 
 ## 来源与核验记录
 
-[^1]: A. M. Turing, “Computing Machinery and Intelligence,” *Mind*, Vol. LIX, No. 236 (1950), pp. 433–460, [DOI](https://doi.org/10.1093/mind/LIX.236.433); [JSTOR 2251299](https://www.jstor.org/stable/2251299).
-[^2]: Project Gutenberg, [*Notes from the Underground*, eBook #600](https://www.gutenberg.org/ebooks/600). 页面和 EPUB 直链于 2026-09-12 验证为 200。
-[^3]: Project Gutenberg, [*On Liberty*, eBook #34901](https://www.gutenberg.org/ebooks/34901). 页面和 EPUB 直链于 2026-09-12 验证为 200。
-[^4]: Perseus Digital Library, [Aristotle, *Nicomachean Ethics*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054); Project Gutenberg, [eBook #8438](https://www.gutenberg.org/ebooks/8438).
-[^5]: Karl Marx, [*Capital*, Volume I](https://www.marxists.org/archive/marx/works/1867-c1/), 1887 English edition, Marxists Internet Archive. HTML 与 PDF 直链于 2026-09-12 验证为 200。
-[^6]: Stephen Boyd and Lieven Vandenberghe, [*Convex Optimization* official book page](https://web.stanford.edu/~boyd/cvxbook/), Stanford University; [complete PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf). 两者于 2026-09-12 验证为 200。
-
 主要机构来源还包括：MIT Press（Simon）、University of Chicago Press（Kuhn、Arendt）、Wiley（Cover–Thomas）、Penguin（Marx *Grundrisse*）、Penguin Random House（Borges）、Stanford Encyclopedia of Philosophy、MIT OpenCourseWare、Stanford 课程页、Internet Archive 受控借阅元数据和 WorldCat 馆藏检索。Internet Archive 借阅条目的 `restricted=true` 已逐项通过公开 metadata API 复核。
+
+
+# Reading archive
+
+这里只保存许可状态清楚的公开文件。
+
+- Aristotle、Mill：Project Gutenberg 公版 EPUB。
+- Dostoevsky：Project Gutenberg 公版英译 EPUB。
+- Marx：1887 年公版英译《资本论》第一卷。
+- Boyd–Vandenberghe：作者在 Stanford 官方课程书页公开的 *Convex Optimization* PDF。
+- Turing 课程托管 PDF 未标开放许可；Simon、Kuhn、Wiener 仅保留在线官方/受控借阅入口。
+
+下载日期：2026-09-12。
+
+[^1]: A. M. Turing, “Computing Machinery and Intelligence,” *Mind*, Vol. LIX, No. 236 (1950), pp. 433–460, [DOI](https://doi.org/10.1093/mind/LIX.236.433); [JSTOR 2251299](https://www.jstor.org/stable/2251299).
+    
+[^2]: Project Gutenberg, [*Notes from the Underground*, eBook #600](https://www.gutenberg.org/ebooks/600). 页面和 EPUB 直链于 2026-09-12 验证为 200。
+    
+[^3]: Project Gutenberg, [*On Liberty*, eBook #34901](https://www.gutenberg.org/ebooks/34901). 页面和 EPUB 直链于 2026-09-12 验证为 200。
+    
+[^4]: Perseus Digital Library, [Aristotle, *Nicomachean Ethics*](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054); Project Gutenberg, [eBook #8438](https://www.gutenberg.org/ebooks/8438).
+    
+[^5]: Karl Marx, [*Capital*, Volume I](https://www.marxists.org/archive/marx/works/1867-c1/), 1887 English edition, Marxists Internet Archive. HTML 与 PDF 直链于 2026-09-12 验证为 200。
+    
+[^6]: Stephen Boyd and Lieven Vandenberghe, [*Convex Optimization* official book page](https://web.stanford.edu/~boyd/cvxbook/), Stanford University; [complete PDF](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf). 两者于 2026-09-12 验证为 200。
